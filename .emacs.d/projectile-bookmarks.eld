@@ -1,0 +1,1 @@
+("~/Project/Workflow/" "~/Project/Horizon/" "/data1/service/workflow/jupyterhub/" "~/Project/DataLab-BATCH/" "~/RL/QueryReformulator/" "~/Project/workhub/" "/data1/service/workhub/django-elasticsearch/" "~/Project/workhub-launcher-1.0.0/" "~/Project/Workflow-RPM/" "~/Project/django-elasticsearch/" "~/Project/workhub-launcher/" "~/Project/dot-emacs/")
